@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>안녕ㄴ</h2>
+<h2>지금은 오후 1시 33분</h2>
 </body>
 </html>
